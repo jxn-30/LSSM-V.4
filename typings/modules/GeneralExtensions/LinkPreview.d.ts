@@ -1,4 +1,4 @@
-import { IconDefinition } from '@fortawesome/fontawesome-svg-core';
+import { IconDefinition } from '@fontawesome/fontawesome-svg-core';
 import { InternalVehicle, Vehicle } from 'typings/Vehicle';
 import { Building } from 'typings/Building';
 
